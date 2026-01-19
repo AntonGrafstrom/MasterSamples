@@ -1,4 +1,1 @@
-This repository contains R-code for the examples in the paper "Master samples with optimized panels". Depencencies are the R-packages "BalancedSampling", "Rcpp", "RcppArmadillo" and "dplyr". 
-
-
-
+This repository contains R-code for the examples in the paper "Master samples with optimized panels". Depencencies are the R-packages "BalancedSampling", "Rcpp", "RcppArmadillo" and "dplyr". The "R" folder contains the three examples and the R-wrappers for using the Rcpp functions. The "src" folder contains the main SA optimizer and helper functions, written in cpp using Rcpp.
